@@ -1,0 +1,61 @@
+Food_items,Category,Calories,Fats (in gm),Protein,Iron,Carbohydrates,Fibre,Sugar,Meal Type,Sodium
+Paneer Bhurji,Veg,250,20,18,1.5,6,2,2.5,Breakfast,250
+Sprouts Salad,Veg,150,4,12,2.1,22,4,2,Snack,50
+Vegetable Upma,Veg,200,6,6,1.2,30,3.5,1.5,Breakfast,300
+Aloo Paratha,Veg,320,10,8,0.9,40,2.2,3,Breakfast,450
+Dal Chawal,Veg,350,5,14,1.7,50,4.2,2.5,Lunch,400
+Chole Bhature,Veg,450,18,12,2,45,4,3.2,Lunch,600
+Rajma Rice,Veg,360,7,15,2.4,48,4.5,2.2,Lunch,420
+Mix Veg Curry,Veg,220,8,6,1,20,3,2,Dinner,350
+Palak Paneer,Veg,280,15,14,2.6,10,2.5,1,Dinner,300
+Veg Biryani,Veg,400,10,8,1.4,50,3.5,2.5,Dinner,500
+Masala Dosa,Veg,300,12,6,0.8,35,3,1.5,Breakfast,420
+Moong Dal Chilla,Veg,180,5,10,1.2,22,3.2,1,Snack,220
+Oats Khichdi,Veg,220,4,8,1.1,38,4.1,1.3,Lunch,240
+Poha,Veg,180,3,4,1,30,2.2,1.5,Breakfast,230
+Cucumber Raita,Veg,100,5,3,0.5,6,0.8,2,Snack,150
+Paneer Tikka,Veg,260,18,16,1.6,8,1.2,1,Dinner,320
+Stuffed Capsicum,Veg,200,9,8,1.3,12,2.6,1.5,Dinner,300
+Veg Sandwich,Veg,240,8,6,1.1,30,3,2,Snack,280
+Carrot Halwa,Veg,300,12,4,0.8,28,1.5,3.5,Snack,260
+Sabudana Khichdi,Veg,320,10,5,0.9,42,2.2,1.8,Breakfast,400
+Boiled Eggs,Non-Veg,140,10,12,1.2,1,0,0.5,Breakfast,120
+Chicken Curry,Non-Veg,350,18,28,2.5,5,1.2,2,Lunch,480
+Egg Bhurji,Non-Veg,250,18,14,1,3,0.5,1,Breakfast,300
+Grilled Chicken,Non-Veg,300,12,32,2.2,2,0.5,1.5,Lunch,350
+Fish Curry,Non-Veg,320,15,25,3,4,1,2.2,Dinner,400
+Chicken Biryani,Non-Veg,500,20,22,2.8,50,3.5,2.5,Dinner,600
+Egg Curry,Non-Veg,280,15,18,1.5,8,1.2,1.5,Lunch,320
+Mutton Curry,Non-Veg,450,25,30,2.6,6,1,2.8,Dinner,500
+Fish Fry,Non-Veg,360,20,26,2.4,3,0.5,1.8,Snack,400
+Prawns Masala,Non-Veg,310,14,24,2.1,4,1.1,2,Dinner,360
+Chicken Sandwich,Non-Veg,300,12,20,1.8,30,2,2.2,Snack,300
+Omelette,Non-Veg,220,16,12,1,2,0.3,1,Breakfast,250
+Egg Fried Rice,Non-Veg,390,12,14,1.3,45,2,2.5,Lunch,450
+Chicken Salad,Non-Veg,250,10,22,2,5,1.5,1,Snack,280
+Fish Tikka,Non-Veg,330,18,26,2.6,6,0.8,1.5,Dinner,360
+Chicken Roll,Non-Veg,400,20,18,1.4,35,2.5,2.5,Snack,420
+Boiled Chicken,Non-Veg,220,6,30,2.2,1,0,0.5,Lunch,280
+Egg Toast,Non-Veg,280,12,10,1,25,2.2,2,Breakfast,320
+Fish Curry with Rice,Non-Veg,470,18,27,2.8,40,3.2,2.4,Lunch,550
+Prawn Pulao,Non-Veg,430,16,20,2.5,44,3,2.3,Lunch,500
+Chickpea Salad Bowl,Vegan,320,14,12,4.2,35,10,6,Lunch  ,420
+Tofu Stir-Fry with Veggies,Vegan,400,22,18,3.6,30,6,4,Lunch  ,500
+Vegan Lentil Curry,Vegan,380,10,20,5.1,40,9,5,Dinner  ,480
+Quinoa & Black Bean Salad,Vegan,350,12,15,3.9,38,8,3,Lunch  ,450
+Sweet Potato & Kale Bowl,Vegan,310,8,8,2.8,42,7,4,Lunch  ,390
+Hummus with Whole Wheat Pita,Vegan,270,13,10,2.5,28,5,2,Snack  ,300
+Vegan Buddha Bowl,Vegan,420,18,16,4.7,45,10,6,Lunch  ,520
+Mushroom & Spinach Pasta,Vegan,390,14,13,3.1,50,6,3,Dinner  ,470
+Vegan Burrito with Beans and Rice,Vegan,450,16,17,4.3,52,9,5,Dinner  ,550
+Roasted Cauliflower Tacos,Vegan,300,10,9,2.4,32,4,2,Lunch  ,350
+Chana Masala,Vegan,360,11,14,4.9,42,8,3,Dinner  ,490
+Avocado Toast with Tomato,Vegan,290,16,6,2,26,4,2,Breakfast  ,270
+Vegan Thai Green Curry,Vegan,430,22,12,3.8,38,6,4,Dinner  ,530
+Oats with Almond Milk and Fruits,Vegan,250,7,8,2.7,42,7,7,Breakfast  ,160
+Grilled Tofu Sandwich,Vegan,370,15,19,3.5,34,5,3,Lunch  ,440
+Vegetable Soup with Lentils,Vegan,230,5,10,3.2,25,6,2,Dinner  ,310
+Vegan Falafel Wrap,Vegan,400,18,16,4,40,7,4,Lunch  ,510
+Peanut Butter Banana Smoothie,Vegan,350,14,11,1.8,40,5,10,Snack  ,220
+Vegan Vegetable Biryani,Vegan,420,17,10,3.6,48,6,3,Dinner  ,490
+Zucchini Noodles with Tomato Sauce,Vegan,220,9,6,2.3,18,3,2,Dinner  ,180
